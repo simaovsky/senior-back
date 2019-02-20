@@ -1,0 +1,14 @@
+C:\Users\William\source\repos\senior-back\senior-back\bin\Debug\netcoreapp2.1\senior-back.deps.json
+C:\Users\William\source\repos\senior-back\senior-back\bin\Debug\netcoreapp2.1\senior-back.runtimeconfig.json
+C:\Users\William\source\repos\senior-back\senior-back\bin\Debug\netcoreapp2.1\senior-back.runtimeconfig.dev.json
+C:\Users\William\source\repos\senior-back\senior-back\bin\Debug\netcoreapp2.1\senior-back.dll
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.csprojAssemblyReference.cache
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.RazorAssemblyInfo.cache
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.RazorAssemblyInfo.cs
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.AssemblyInfo.cs
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.RazorTargetAssemblyInfo.cache
+C:\Users\William\source\repos\senior-back\senior-back\bin\Debug\netcoreapp2.1\senior-back.pdb
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.dll
+C:\Users\William\source\repos\senior-back\senior-back\obj\Debug\netcoreapp2.1\senior-back.pdb

@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1099945,
+    "Username": "simaovsky",
+    "Name": "william",
+    "Email": "william_s94@hotmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/4b04cf261522dca4121c640d066f341a?s=80&d=identicon",
+    "PrivateToken": "076623980588319ad35c06716e0955e6ff703a0678f4223f7db090139f2d9323",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
