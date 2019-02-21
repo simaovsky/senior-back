@@ -8,9 +8,9 @@
 
 - [Pesquisa baseada no telefone/documento](https://raw.githubusercontent.com/simaovsky/senior-back/master/screens/search-phone-document.png)
 
-- [Pesquisa baseada em clientes que estão no hotel](https://raw.githubusercontent.com/simaovsky/senior-back/master/screens/search-checkin-false.png)
+- [Pesquisa baseada em clientes que não estão no hotel](https://raw.githubusercontent.com/simaovsky/senior-back/master/screens/search-checkin-false.png)
 
-- [Pesquisa baseada em clientes que já sairam do hotel](https://raw.githubusercontent.com/simaovsky/senior-back/master/screens/search-checkin-true.png)
+- [Pesquisa baseada em clientes que estão do hotel](https://raw.githubusercontent.com/simaovsky/senior-back/master/screens/search-checkin-true.png)
 
 ## Inserções
 
